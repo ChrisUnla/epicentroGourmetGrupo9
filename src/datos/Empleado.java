@@ -12,6 +12,7 @@ private LocalDate fechaIngreso;
 private float sueldo;
 private boolean esEncargado;
 private int puestoDondeTrabaja;
+
      public Empleado() {
      }
 	 public Empleado( int dni, String nombre, String apellido, LocalDate fechaNacimiento,

@@ -12,7 +12,6 @@ public abstract class UnidadVenta {
 	public UnidadVenta() {
 	}
 
-
 	public UnidadVenta( String nombre, Double superficie, Set<Empleado> empleados) {
 		super();
 		this.nombre = nombre;
